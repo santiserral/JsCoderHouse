@@ -1,6 +1,5 @@
 // let numeroIngresado = prompt("Ingresa un número");
 // let salida = numeroIngresado*2
 // alert(salida);
-let radio = 5.3
-let salida = Math.PI*radio**2 
-console.log('Total', salida);
+let radio = prompt("Ingrese el nombre de su novia aquí")
+alert("El nivel de belleza de Belibuwu es de 10001%")
