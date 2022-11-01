@@ -1,5 +1,7 @@
-// let numeroIngresado = prompt("Ingresa un número");
-// let salida = numeroIngresado*2
-// alert(salida);
-let radio = prompt("Ingrese el nombre de su novia aquí")
-alert("El nivel de belleza de Belibuwu es de 10001%")
+let nombreIngresado = prompt("Ingrese su nombre");
+if((nombreIngresado !="") && ((nombreIngresado == "belen") || (nombreIngresado == "belibu") || (nombreIngresado == "belibuwu"))){
+alert("Hola mi amor te amo mucho sos hermosisima y preciosa sabelo");
+}
+else{
+    alert("No sos mi novia raja de aca puta");
+}
